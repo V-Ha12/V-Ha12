@@ -1,6 +1,8 @@
+###
 <div align="center">
   <h3>An aspiring data analyst eager to learn and master data processing, visualization, and analytics to uncover valuable insights and support data-driven decisions.</h3>
 </div>
+
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7B815&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Viet+Ha+%F0%9F%8C%B7)](https://git.io/typing-svg)
 <div align="center">

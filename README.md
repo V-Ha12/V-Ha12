@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <h3>An aspiring data analyst eager to learn and master data processing, visualization, and analytics to uncover valuable insights and support data-driven decisions.</h3>
+  <h3>⭐️ An aspiring data analyst eager to learn and master data processing, visualization, and analytics to uncover valuable insights and support data-driven decisions.</h3>
 </div>
 
 ###

@@ -1,10 +1,8 @@
 ###
-<div align="center">
-  <h3>⭐️ An aspiring data analyst eager to learn and master data processing, visualization, and analytics to uncover valuable insights and support data-driven decisions.</h3>
+<div style="text-align: center;">
+  <h3>An aspiring data analyst eager to learn and master data processing, visualization, and analytics to uncover valuable insights and support data-driven decisions.</h3>
+  <a href="https://readme-typing-svg.herokuapp.com/?font=Dancing&size=100&color=FBB03B&center=true&width=750&lines=Welcome+to+my+GitHub+!;I+am+a+data+analyst">[Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing&size=100&color=FBB03B&center=true&width=750&lines=Welcome+to+my+GitHub+!;I+am+a+data+analyst)</a>
 </div>
-
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7B815&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Viet+Ha+%F0%9F%8C%B7)](https://git.io/typing-svg)
 <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 </div>

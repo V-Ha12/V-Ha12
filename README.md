@@ -4,7 +4,7 @@
 </div>
 
 ###
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7B815&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Viet+Ha+%F0%9F%8C%B7)](https://git.io/typing-svg)](https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI2NTkyMDMsIm5iZiI6MTc0MjY1ODkwMywicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIyVDE1NTUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxNTQ0YTBmYzgwNWM4MmQ4YjE2NjI3ZTQyZjI4Y2Q4NDJjNDk0YzQwN2IxYzM4NzRhNmJmNjdhMjllOTE5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pph89nlCTdZlvkEP_bBUjVSInYFaaaS3sT3RH9s2_s0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7B815&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Viet+Ha+%F0%9F%8C%B7)](https://git.io/typing-svg)
   <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 </div>

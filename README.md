@@ -4,9 +4,7 @@
 </div>
 
 ###
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7B815&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Viet+Ha+%F0%9F%8C%B7)](https://git.io/typing-svg)
-</div>
   <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 </div>
